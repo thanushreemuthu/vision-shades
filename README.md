@@ -18,6 +18,7 @@ Built using **:contentReference[oaicite:0]{index=0}**, NumPy, and Matplotlib.
 
 ##  Technologies Used
 - Python
+- openCV
 - :contentReference[oaicite:1]{index=1}
 - NumPy
 - Matplotlib

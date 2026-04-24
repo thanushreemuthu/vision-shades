@@ -3,8 +3,6 @@
 ##  Project Overview
 This project demonstrates how to overlay a sunglass image onto a human face using image processing techniques in Python. It uses alpha blending and masking to seamlessly place sunglasses over the eye region.
 
-Built using **:contentReference[oaicite:0]{index=0}**, NumPy, and Matplotlib.
-
 ---
 
 ##  Objectives

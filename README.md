@@ -32,7 +32,7 @@ Built using **:contentReference[oaicite:0]{index=0}**, NumPy, and Matplotlib.
 ├── sunglass.png # Sunglass image (with alpha channel)
 └── README.md
 ```
-## 📸 Output
+##  Output
 
 ###  Step 1: Original Face Image  
 <img width="532" height="604" alt="image" src="https://github.com/user-attachments/assets/19f68ed9-1ffd-4647-a530-855dfd1bfcd7" />
@@ -76,7 +76,7 @@ Two approaches:
 - **Naive overlay** (direct replacement)
 - **Mask-based blending** (smooth and realistic)
 
-## 🧠 Key Concepts
+##  Key Concepts
 
 - Image slicing (Region of Interest - ROI)
 - Alpha blending
